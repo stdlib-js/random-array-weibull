@@ -392,6 +392,7 @@ logEach( '%f', x4 );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/random-base/weibull`][@stdlib/random/base/weibull]</span><span class="delimiter">: </span><span class="description">Weibull distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random-strided/weibull`][@stdlib/random/strided/weibull]</span><span class="delimiter">: </span><span class="description">fill a strided array with pseudorandom numbers drawn from a Weibull distribution.</span>
 
 </section>
 
@@ -476,6 +477,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
+
+<!-- <related-links> -->
+
+[@stdlib/random/strided/weibull]: https://github.com/stdlib-js/random-strided-weibull
+
+<!-- </related-links> -->
 
 </section>
 
