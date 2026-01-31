@@ -75,8 +75,8 @@ var out = weibull( 10, 2.0, 5.0 );
 The function has the following parameters:
 
 -   **len**: output array length.
--   **k**: scale parameter.
--   **lambda**: shape parameter.
+-   **k**: shape parameter.
+-   **lambda**: scale parameter.
 -   **options**: function options.
 
 The function accepts the following `options`:
@@ -113,8 +113,8 @@ var bool = ( out === x );
 
 The function has the following parameters:
 
--   **k**: scale parameter.
--   **lambda**: shape parameter.
+-   **k**: shape parameter.
+-   **lambda**: scale parameter.
 -   **out**: output array.
 
 #### weibull.factory( \[k, lambda, ]\[options] )
@@ -424,7 +424,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -450,8 +450,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 -->
 
-[chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
+[chat-image]: https://img.shields.io/badge/zulip-join_chat-brightgreen.svg
+[chat-url]: https://stdlib.zulipchat.com
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
